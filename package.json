@@ -1,0 +1,14 @@
+{
+  "name": "rfd",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "*",
+    "react-faux-dom": "*"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-faux-dom": "*"
+  }
+}
